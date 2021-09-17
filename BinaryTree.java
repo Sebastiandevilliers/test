@@ -48,6 +48,8 @@ public class BinaryTree {
 		tree.printPostorder();
 		
 		
+		System.out.println("This is a test");
+		
 				
 		
 		
